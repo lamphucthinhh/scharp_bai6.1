@@ -43,9 +43,9 @@ namespace scharp_bai6._1
             }
             else if (dtb < 8 )
             {
-                txtxeploai.Text = "giỏi";
+                txtxeploai.Text = "khá";
             }
-            
+            e
 
         }
     }
