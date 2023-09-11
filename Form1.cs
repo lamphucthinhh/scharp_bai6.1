@@ -45,8 +45,10 @@ namespace scharp_bai6._1
             {
                 txtxeploai.Text = "khá";
             }
-            e
-
+            else
+            {
+                 txtxeploai.Text = "giỏi" 
+            }
         }
     }
 }
